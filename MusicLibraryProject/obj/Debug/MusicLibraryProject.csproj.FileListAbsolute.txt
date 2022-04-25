@@ -1,0 +1,10 @@
+C:\Users\HPInc\source\repos\MusicLibraryProject\bin\Debug\MusicLibraryProject.exe.config
+C:\Users\HPInc\source\repos\MusicLibraryProject\bin\Debug\MusicLibraryProject.exe
+C:\Users\HPInc\source\repos\MusicLibraryProject\bin\Debug\MusicLibraryProject.pdb
+C:\Users\HPInc\source\repos\MusicLibraryProject\obj\Debug\MusicLibraryProject.csproj.AssemblyReference.cache
+C:\Users\HPInc\source\repos\MusicLibraryProject\obj\Debug\MusicLibraryProject.Form1.resources
+C:\Users\HPInc\source\repos\MusicLibraryProject\obj\Debug\MusicLibraryProject.Properties.Resources.resources
+C:\Users\HPInc\source\repos\MusicLibraryProject\obj\Debug\MusicLibraryProject.csproj.GenerateResource.cache
+C:\Users\HPInc\source\repos\MusicLibraryProject\obj\Debug\MusicLibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\HPInc\source\repos\MusicLibraryProject\obj\Debug\MusicLibraryProject.exe
+C:\Users\HPInc\source\repos\MusicLibraryProject\obj\Debug\MusicLibraryProject.pdb
